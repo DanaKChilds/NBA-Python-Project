@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project applies machine learning techniques to analyze NBA team performance. Using basketball statistics such as field goal attempts, three-point percentages, and pace, it predicts team win percentages. The project includes data collection, exploratory analysis, and the implementation of multiple regression models, including Linear Regression, Decision Tree, and Random Forest.
+This project applies machine learning techniques to analyze NBA team performance. Using basketball statistics such as field goal attempts, three-point percentage, and pace, it predicts team win percentages. The project includes data collection, exploratory analysis, and the implementation of multiple regression models, including Linear Regression, Decision Tree, and Random Forest.
 
 ## Project Structure
 
@@ -13,7 +13,7 @@ This project applies machine learning techniques to analyze NBA team performance
 
 ## Methodology
 
-The project collects NBA team statistics from 2000 to 2024, including offensive and defensive ratings, shooting efficiency, and team pace. These features are used to train and evaluate predictive models for team success. Data preprocessing, visualization, and model performance comparisons are conducted within the notebook.
+The project collects NBA team statistics from the 2000 to 2024 seasons, including offensive and defensive ratings, shooting efficiency, and team pace. These features are used to train and evaluate predictive models for team success. Data preprocessing, visualization, and model performance comparisons are conducted within the notebook.
 
 ## Requirements
 
