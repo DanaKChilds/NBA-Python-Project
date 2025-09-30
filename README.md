@@ -10,6 +10,7 @@ This project applies machine learning techniques to analyze NBA team performance
 
 - **Introduction_to_Python_Final_Project.ipynb** – Jupyter Notebook containing the project code and analysis.
 - **Project Data** – Datasets used in the project, including a cleaned version of the data.
+- **NBA Team Project.pbix** - League and Team Trend Dashboards 
 
 ## Dashboards
 
