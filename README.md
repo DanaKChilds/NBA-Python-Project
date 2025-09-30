@@ -9,7 +9,7 @@ This project applies machine learning techniques to analyze NBA team performance
 ## Project Structure
 
 - **Introduction_to_Python_Final_Project.ipynb** – Jupyter Notebook containing the project code and analysis.
-- **Project Data.zip** – Datasets used in the project.
+- **Project Data** – Datasets used in the project, including a cleaned version of the data.
 
 ## Dashboards
 
