@@ -11,6 +11,17 @@ This project applies machine learning techniques to analyze NBA team performance
 - **Introduction_to_Python_Final_Project.ipynb** – Jupyter Notebook containing the project code and analysis.
 - **Project Data.zip** – Datasets used in the project.
 
+## Dashboards
+
+The League Trends dashboard tracks league-wide shifts from 2001–2024 in shot mix and efficiency, relates pace to offensive rating, and shows how net rating aligns with wins alongside offense vs defense snapshots. The Team Trends dashboard lets you pick a team to view season-by-season style and performance, including shot profile, 3P% vs TS% efficiency, wins with net rating, pace vs offense, and offensive rating vs defensive rating balance.
+
+
+<img width="1363" height="787" alt="image" src="https://github.com/user-attachments/assets/4f7ae7da-d3c1-4048-9db7-c4e4399f2bf6" />
+
+
+<img width="1602" height="928" alt="image" src="https://github.com/user-attachments/assets/3c49841c-d1f2-40f1-99e6-2c1afe5bc9af" />
+
+
 ## Methodology
 
 The project collects NBA team statistics from the 2000 to 2024 seasons, including offensive and defensive ratings, shooting efficiency, and team pace. These features are used to train and evaluate predictive models for team success. Data preprocessing, visualization, and model performance comparisons are conducted within the notebook.
